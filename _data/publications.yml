@@ -1,11 +1,21 @@
 main:
 
+  - title: Socialized Evolutionary Decision-making for Online Open Set Recognition
+    authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Dongyue Chen, Qinghua Hu
+    conference_short: under peer review
+    conference: under peer review, 2025.
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/prototype.png
+    #notes: Early Accept
+
   - title: Unknown Support Prototype Set for Open Set Recognition
     authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Bing Cao, Dongyue Chen, Qinghua Hu
     conference_short: IJCV
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
+    code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/prototype.png
     #notes: Early Accept
