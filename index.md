@@ -23,3 +23,8 @@ I am a doctoral candidate at the College of Intelligence and Computing, Tianjin 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Correspondence
+
+- Email: jiangggss (at) tju.edu.cn
+- Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350
