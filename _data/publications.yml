@@ -2,7 +2,7 @@ main:
 
   - title: Socialized Evolutionary Decision-making for Online Open Set Recognition
     authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Dongyue Chen, Qinghua Hu
-    conference_short: under peer review
+    conference_short: peer review
     conference: under peer review, 2025.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
@@ -35,8 +35,8 @@ main:
     authors: Huitong Chen, Yu Wang, Yan Fan, <strong>Guosong Jiang</strong>, Qinghua Hu
     conference_short: CVPR
     conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    #pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.html
-    #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
+    pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.html
+    code: https://github.com/lilyht/CREATE
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/social.png
     #notes: Early Accept
