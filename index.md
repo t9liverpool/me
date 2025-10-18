@@ -8,8 +8,8 @@ I am a doctoral candidate at the College of Intelligence and Computing, Tianjin 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** visual representation learning, visual language model, visual recognition
+- **Machine Learning:** open set recognition, lifelong learning, interpretability
 
 ## News
 
