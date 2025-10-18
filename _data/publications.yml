@@ -7,7 +7,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/prototype.png
+    image: ./assets/img/social.png
     #notes: Early Accept
 
   - title: Unknown Support Prototype Set for Open Set Recognition
@@ -30,3 +30,13 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     image: ./assets/img/OSR.png
+
+  - title: Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds
+    authors: Huitong Chen, Yu Wang, Yan Fan, <strong>Guosong Jiang</strong>, Qinghua Hu
+    conference_short: CVPR
+    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    #pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Reducing_Class-wise_Confusion_for_Incremental_Learning_with_Disentangled_Manifolds_CVPR_2025_paper.html
+    #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/social.png
+    #notes: Early Accept
