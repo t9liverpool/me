@@ -1,24 +1,22 @@
 main:
 
-
-
-  - title: "OpenMix+: Revisiting Data Augmentation for Open Set Recognition"
-    authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Yu Wang, Qinghua Hu
-    conference_short: TCSVT
-    conference: IEEE Transactions on Consumer Electronics, Special Issue on Video Technology <strong>(TCSVT)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/prototype.png
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: Unknown Support Prototype Set for Open Set Recognition
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/OSR.png
+    image: ./assets/img/prototype.png
     notes: Early Accept
+
+  - title: "OpenMix+: Revisiting Data Augmentation for Open Set Recognition"
+    authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Yu Wang, Qinghua Hu
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10106029
+    code: https://github.com/t9liverpool/OpenMix
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/OSR.png
