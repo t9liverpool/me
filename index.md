@@ -1,9 +1,4 @@
 
-
----
-layout: homepage
----
-
 ## About Me
 
 I am a doctoral candidate at the College of Intelligence and Computing, Tianjin University. Currently, I do research at the Lab of Machine Learning and Data Mining under the supervision of [Prof. Qinghua Hu](https://cic.tju.edu.cn/faculty/huqinghua/index.html). My doctoral thesis focuses on Open Set Recognition.
