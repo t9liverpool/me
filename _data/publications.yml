@@ -11,7 +11,7 @@ main:
     #notes: Early Accept
 
   - title: "Dehaze4Detection: Detection-Oriented Weakly Supervised Dehazing"
-    authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Dongyue Chen, Qinghua Hu
+    authors: Jinbin Wang, Aiping Yang, <strong>Guosong Jiang</strong>, Xiaoya Dong, Dongwei Ren, and Qinghua Hu
     conference_short: peer review
     conference: under peer review, 2025.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
