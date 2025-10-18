@@ -10,7 +10,7 @@ main:
     image: ./assets/img/social.png
     #notes: Early Accept
 
-  - title: Dehaze4Detection: Detection-Oriented Weakly Supervised Dehazing
+  - title: "Dehaze4Detection: Detection-Oriented Weakly Supervised Dehazing"
     authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Dongyue Chen, Qinghua Hu
     conference_short: peer review
     conference: under peer review, 2025.
