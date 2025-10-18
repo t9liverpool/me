@@ -14,7 +14,7 @@ main:
     authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Bing Cao, Dongyue Chen, Qinghua Hu
     conference_short: IJCV
     conference: International Journal of Computer Vision <strong>(IJCV)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://link.springer.com/article/10.1007/s11263-025-02384-9
     code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/prototype.png
@@ -24,7 +24,7 @@ main:
     authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Yu Wang, Qinghua Hu
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
-    pdf: https://link.springer.com/article/10.1007/s11263-025-02384-9
+    pdf: https://ieeexplore.ieee.org/abstract/document/10106029
     code: https://github.com/t9liverpool/OpenMix
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
