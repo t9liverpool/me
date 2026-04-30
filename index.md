@@ -30,4 +30,4 @@ I am currently a postdoctoral researcher at The Hong Kong Polytechnic University
 ## Correspondence
 
 - Email: jiangggss (at) tju.edu.cn
-- Address: Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR
+- Address: Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
