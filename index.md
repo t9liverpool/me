@@ -30,4 +30,4 @@ I am currently a postdoctoral researcher at The Hong Kong Polytechnic University
 ## Correspondence
 
 - Email: jiangggss (at) tju.edu.cn
-- Address: Building 55, College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350
+- Address: Department of Computing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR
