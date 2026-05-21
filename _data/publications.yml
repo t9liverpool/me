@@ -1,7 +1,7 @@
 main:
 
-  - title: Socialized Division and Collaboration: Rethinking Class-Incremental Learning under Optimization Conflicts
-    authors: Xinjie Yao, Zhihe Fan, Shuhui Wu, Jiaqi Zhou, Dengyu Zhao, Yichen Dong, Yan Fan, <strong>Guosong Jiang</strong>, Pengfei Zhu
+  - title: Socialized Evolutionary Decision-making for Online Open Set Recognition
+    authors: <strong>Guosong Jiang</strong>, Pengfei Zhu, Dongyue Chen, Qinghua Hu
     conference_short: peer review
     conference: submitted to TCSVT, 2026.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
