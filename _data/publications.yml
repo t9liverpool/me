@@ -2,7 +2,7 @@ main:
 
  - title: Online Risk-Bounded Test-Time Adaptation for Nonstationary Time Series
     authors: Yipu Liu, Zongxia Xie, <strong>Guosong Jiang</strong>, Qinghua Hu
-    conference_short: under peer review
+    conference_short: peer review
     conference: submitted to TNNLS, 2026.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
@@ -12,7 +12,7 @@ main:
 
   title: Online Risk-Bounded Test-Time Adaptation for Nonstationary Time Series
     authors: Yipu Liu, Zheng Wang, <strong>Guosong Jiang</strong>, Qinghua Hu
-    conference_short: under peer review
+    conference_short: peer review
     conference: submitted to Neurips, 2026.
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
