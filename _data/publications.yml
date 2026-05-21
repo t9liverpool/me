@@ -7,7 +7,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/yao_tcsvt.png
+    image: ./assets/img/social.png
     #notes: Early Accept
 
   - title: Socialized Evolutionary Decision-making for Online Open Set Recognition
