@@ -83,4 +83,16 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/OSR.png
 
+    - title: "Accurate Prediction of Secondary Structure of tRNAs"
+    authors: <strong>Guosong Jiang</strong>, Ke Chen, Jie Sun
+    conference_short: BBRC
+    conference: Biochemical and Biophysical Research Communications <strong>(BBRC)</strong>, 2019.
+    #pdf: https://ieeexplore.ieee.org/abstract/document/10106029
+    #code: https://github.com/t9liverpool/OpenMix
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/bbrc.png
+
+
 
