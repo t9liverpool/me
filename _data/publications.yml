@@ -10,7 +10,7 @@ main:
     image: ./assets/img/yipu_tnnls.png
     #notes: Early Accept
 
-  title: Online Risk-Bounded Test-Time Adaptation for Nonstationary Time Series
+  - title: Online Risk-Bounded Test-Time Adaptation for Nonstationary Time Series
     authors: Yipu Liu, Zheng Wang, <strong>Guosong Jiang</strong>, Qinghua Hu
     conference_short: peer review
     conference: submitted to Neurips, 2026.
