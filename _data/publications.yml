@@ -1,7 +1,6 @@
 main:
 
   - title: Socialized Division and Collaboration: Rethinking Class-Incremental Learning under Optimization Conflicts
-
     authors: Xinjie Yao, Zhihe Fan, Shuhui Wu, Jiaqi Zhou, Dengyu Zhao, Yichen Dong, Yan Fan, <strong>Guosong Jiang</strong>, Pengfei Zhu
     conference_short: peer review
     conference: submitted to TCSVT, 2026.
