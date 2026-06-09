@@ -42,9 +42,9 @@ main:
 
  
   - title: "Dehaze4Detection: Detection-Oriented Weakly Supervised Dehazing"
-    authors: Jinbin Wang, Aiping Yang, <strong>Guosong Jiang</strong>, Xiaoya Dong, Dongwei Ren, and Qinghua Hu
-    conference_short: peer review
-    conference: submitted to TIM, 2025.
+    authors: Jinbin Wang, Aiping Yang, <strong>Guosong Jiang</strong>, Wenlong Yu, Dongwei Ren, and Qinghua Hu
+    conference_short: CAAI TRIT
+    conference: CAAI Transactions on Intelligence Technology, 2026
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     #code: https://github.com/t9liverpool/USPS?tab=readme-ov-file
     #bibtex: https://bib.yliu.me/MICCAI23.txt
